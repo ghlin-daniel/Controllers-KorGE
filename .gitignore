@@ -1,3 +1,15 @@
+/.gradle
+/.idea
+/build
+/modules
+/bundles
+/deps
+*.iml
+*.hprof
+korge.keystore
+local.properties
+src/main/*
+
 # Compiled class file
 *.class
 
